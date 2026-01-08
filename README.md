@@ -24,7 +24,7 @@ Does adaptation under a perturbation with the non-dominant (left) hand generaliz
 - Block 3: 100 trials left hand (to match same number of trials in other group)
 
 **Block 4 -- perturbation**
-- Block 4: 100 trials left hand with 45º cursor perturbation
+- Block 4: 100 trials right hand with 45º cursor perturbation
 
 **Blocks 5-6 -- Aftereffects**
 - Block 5: 50 trials right hand
@@ -40,9 +40,9 @@ Does adaptation under a perturbation with the non-dominant (left) hand generaliz
 - Block 2: 30 trials left hand
 
 **Blocks 3-4 -- perturbation**
-- Block 3: 100 trials right hand with 45º cursor perturbation
+- Block 3: 100 trials left hand with 45º cursor perturbation
 
-- Block 4: 100 trials left hand with 45º cursor perturbation
+- Block 4: 100 trials right hand with 45º cursor perturbation
 
 **Blocks 5-6 -- Aftereffects**
 - Block 5: 50 trials right hand
